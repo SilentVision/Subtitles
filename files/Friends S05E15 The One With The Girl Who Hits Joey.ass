@@ -1,0 +1,302 @@
+﻿[Script Info]
+; // 此字幕由PopSub生成  2009-12-30 23:40:34
+; // 版本: 0.75
+; // popgo_fansub@yahoo.co.jp
+; // 欢迎访问漫游天下 http://bbs.popgo.net
+Title:漫游字幕
+Original Script:漫游字幕组
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:360
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,楷体,25,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,1,0,0,0,100,100,0,0.00,1,1,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.23,0:00:04.26,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德！钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Chandler! Chandler!{\r}
+Dialogue: 0,0:00:07.74,0:00:11.00,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德，我从窗户看见了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I saw what you were doing in the window!{\r}
+Dialogue: 0,0:00:11.11,0:00:14.01,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我看见你在对我妹做什么了 你给我出来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I saw what you're doing to my sister! Get out here!{\r}
+Dialogue: 0,0:00:15.38,0:00:17.74,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}听着，我们玩得很开心{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Listen,we had a good run.{\r}
+Dialogue: 0,0:00:17.85,0:00:19.71,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}总共4个月？5个月？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What was it? Four,five months?{\r}
+Dialogue: 0,0:00:19.81,0:00:23.77,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比很多人一辈子加起来都久 再见，保重，再见了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's more than most people have in a lifetime. Goodbye.{\r}
+Dialogue: 0,0:00:25.75,0:00:28.66,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你干什么？ 我要逃跑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-What are you doing? -I am going on the lam.{\r}
+Dialogue: 0,0:00:28.76,0:00:32.16,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}过来，我应付得了罗斯{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,Chandler. I can handle Ross.{\r}
+Dialogue: 0,0:00:32.26,0:00:33.35,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hold on!{\r}
+Dialogue: 0,0:00:36.80,0:00:38.20,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}嗨 罗斯，你好吗哥哥？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,Ross. What's up,bro?{\r}
+Dialogue: 0,0:00:40.87,0:00:45.70,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你干了什么好事？ 发生什么事了？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What the hell are you doing?What's going on?{\r}
+Dialogue: 0,0:00:45.81,0:00:49.87,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我想… 罗斯发现我和莫妮卡的事了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I think Ross knows about me and Monica.{\r}
+Dialogue: 0,0:00:51.25,0:00:53.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他人就在那里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Dude,he's right there.{\r}
+Dialogue: 0,0:00:55.98,0:00:59.32,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我以为你是我最好的朋友 这是我妹妹{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I thought you were my best friend! This is my sister!{\r}
+Dialogue: 0,0:00:59.42,0:01:02.48,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我最要好的朋友和我妹妹 我真不敢相信{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}My best friend and my sister! I cannot believe this!{\r}
+Dialogue: 0,0:01:02.59,0:01:08.65,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们不是玩玩而已，我爱她 我爱上她了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We're not just messing around. I love her.I'm in love with her.{\r}
+Dialogue: 0,0:01:09.66,0:01:12.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}抱歉让你这样发现{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm so sorry that you had to find out this way.{\r}
+Dialogue: 0,0:01:13.47,0:01:16.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对不起，但是真的，我也爱他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm sorry,but it's true. I love him too.{\r}
+Dialogue: 0,0:01:23.14,0:01:27.41,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我最要好的朋友和我妹妹{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}My best friend and my sister!{\r}
+Dialogue: 0,0:01:28.62,0:01:30.85,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我真不敢相信{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I cannot believe this!{\r}
+Dialogue: 0,0:01:32.65,0:01:36.59,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们也想抱抱吧？大消息喔{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You guys want to probably get some hugs in too. Big news!{\r}
+Dialogue: 0,0:01:37.46,0:01:40.92,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不用了，我们知道一阵子了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We've actually known for a while.{\r}
+Dialogue: 0,0:01:44.77,0:01:47.26,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？你们知道？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What? You guys knew?{\r}
+Dialogue: 0,0:01:47.37,0:01:49.93,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们都知道，却没告诉我？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You all knew and you didn't tell me?{\r}
+Dialogue: 0,0:01:50.04,0:01:55.07,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们很担心你 不知道你会有什么反应{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We were worried about you. We didn't know how you were going to react.{\r}
+Dialogue: 0,0:01:58.08,0:02:04.54,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们担心我？ 不知道我会有什么反应？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You were worried about me?You didn't know how I'd react?{\r}
+Dialogue: 0,0:02:06.86,0:02:13.78,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好吧，我们要不要清个场 让这对爱情鸟继续办事？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay. All right.Let's clear out of here and let these lovebirds get back to business.{\r}
+Dialogue: 0,0:02:16.76,0:02:20.79,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我只是说说，上你妹的是他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm just talking here. He's the one doing your sister.{\r}
+Dialogue: 0,0:02:23.34,0:02:25.81,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}本集播出：“打乔伊的女孩”{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The One With the Girl Who Hits Joey{\r}
+Dialogue: 0,0:02:33.48,0:02:37.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}主演：珍妮佛安妮斯顿{\r}
+Dialogue: 0,0:02:37.19,0:02:40.88,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}寇妮考克斯{\r}
+Dialogue: 0,0:02:40.99,0:02:44.72,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}丽莎库卓{\r}
+Dialogue: 0,0:02:44.83,0:02:48.49,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}麦特勒布蘭{\r}
+Dialogue: 0,0:02:48.60,0:02:52.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}马修派瑞{\r}
+Dialogue: 0,0:02:52.47,0:02:56.30,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}大卫修蒙{\r}
+Dialogue: 0,0:02:58.71,0:03:00.73,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}“中央咖啡馆”{\r}
+Dialogue: 0,0:03:00.84,0:03:04.24,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们猜我想到什么 要是你们生了小孩…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what I just realized?If you guys have kids{\r}
+Dialogue: 0,0:03:04.35,0:03:07.01,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们生小孩？ 我要当教父{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We're having kids?I call godfather!{\r}
+Dialogue: 0,0:03:08.82,0:03:12.75,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不能当教父{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You can't just call godfather.{\r}
+Dialogue: 0,0:03:12.85,0:03:15.25,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不觉得应该由她哥哥当吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Shouldn't her brother be godfather?{\r}
+Dialogue: 0,0:03:15.36,0:03:18.19,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}当然，你想要的话就应该先喊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sure. If you cared enough to call it first.{\r}
+Dialogue: 0,0:03:19.56,0:03:23.40,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们想得太远了 是呀，就像登月那么遥远{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-You're a few steps ahead of us. -Big zero gravity moon steps.{\r}
+Dialogue: 0,0:03:24.13,0:03:27.07,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我刚想到一样最棒的结婚礼物{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I just thought of the greatest wedding gift.{\r}
+Dialogue: 0,0:03:27.17,0:03:30.00,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我跟你送一样的，我没什么主意{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'll go in on that with you. I couldn't decide.{\r}
+Dialogue: 0,0:03:32.71,0:03:33.77,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}凯蒂{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,Katie.{\r}
+Dialogue: 0,0:03:34.14,0:03:36.11,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}各位，这是凯蒂{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This is Katie.{\r}
+Dialogue: 0,0:03:36.21,0:03:36.94,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}可以走了吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You ready to go?{\r}
+Dialogue: 0,0:03:37.05,0:03:39.10,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}可以，我先上个厕所 往后走{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'll run to the bathroom.Oh sure，right back there{\r}
+Dialogue: 0,0:03:39.21,0:03:41.94,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们午餐要吃什么？ 我想吃中国菜{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Where's for lunch?I was thinking Chinese food.{\r}
+Dialogue: 0,0:03:42.05,0:03:44.14,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我最爱吃中国菜了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I love Chinese!{\r}
+Dialogue: 0,0:03:44.25,0:03:46.45,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你怎么知道我爱吃中国菜？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}How did you know I love Chinese?{\r}
+Dialogue: 0,0:03:50.73,0:03:54.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她真可爱，可以塞进口袋里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She is so cute.You could fit her in your pocket.{\r}
+Dialogue: 0,0:03:56.30,0:03:58.93,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}可以塞进口袋的小口袋里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She could fit in that little pocket inside the pocket.{\r}
+Dialogue: 0,0:04:00.77,0:04:03.03,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不知道，我很喜欢她{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I don't know. I like her a lot,{\r}
+Dialogue: 0,0:04:03.14,0:04:05.77,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她人很好，但是… 但是怎样？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}and she's really nice,but....But what?{\r}
+Dialogue: 0,0:04:08.31,0:04:10.30,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她老爱打我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She keeps punching me.{\r}
+Dialogue: 0,0:04:12.45,0:04:15.14,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}用她刚才那种可爱的方式？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}In the cute,little sweet way she just did?{\r}
+Dialogue: 0,0:04:15.25,0:04:21.75,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}力道比表面上大多了，好吗？ 她把我打痛了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's a lot harder than it looks.She's hurting me.{\r}
+Dialogue: 0,0:04:21.86,0:04:24.83,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我知道了，你需要保镖{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I know what you need. You need a bodyguard.{\r}
+Dialogue: 0,0:04:24.93,0:04:27.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯，班下课之后有事吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What is Ben doing after preschool?{\r}
+Dialogue: 0,0:04:28.93,0:04:31.52,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}别这样，乔伊有烦恼{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Joey is having a problem.{\r}
+Dialogue: 0,0:04:31.63,0:04:33.33,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他被一个小女孩揍了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&} A little girl is beating him up.{\r}
+Dialogue: 0,0:04:34.57,0:04:40.17,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊，过来 我知道你一定非常难受…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Joey,come here.Honey,I know. This must be really difficult for you,and{\r}
+Dialogue: 0,0:04:40.28,0:04:42.27,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}抱歉，我握痛你了吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm sorry,am I hurting you?{\r}
+Dialogue: 0,0:04:53.52,0:04:55.39,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我带了乔迁之礼来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I brought you some housewarming gifts.{\r}
+Dialogue: 0,0:04:55.49,0:04:58.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}盐，让你的生活有味{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Salt,so your life always has flavor.{\r}
+Dialogue: 0,0:04:58.99,0:05:01.96,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}面包，让你永不饥饿{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Bread,so you never go hungry.{\r}
+Dialogue: 0,0:05:02.06,0:05:06.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}浴室用香精蜡烛，不用我说，你知道的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And a scented candle for the bathroom.Because,well,you know.{\r}
+Dialogue: 0,0:05:08.07,0:05:12.01,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢，谢谢…再次感谢{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks. Thanks. And thanks,I guess.{\r}
+Dialogue: 0,0:05:14.38,0:05:17.94,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}欢迎你搬进来 我是史提夫沙拉，管委会主席{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Welcome. I'm Steve Cera,president of the tenants' committee.{\r}
+Dialogue: 0,0:05:18.05,0:05:20.98,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你好，我是罗斯盖勒 这是我朋友菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Ross Geller. And this is my friend Phoebe.{\r}
+Dialogue: 0,0:05:21.08,0:05:23.02,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比你好 主席先生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hi Phoebe. Mr. President.{\r}
+Dialogue: 0,0:05:25.22,0:05:27.69,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我来跟你谈霍华的事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I came to talk to you about Howard.{\r}
+Dialogue: 0,0:05:27.79,0:05:31.35,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}霍华？ 他是这里的杂工，下星期退休{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}He is the handyman who's retiring next week.{\r}
+Dialogue: 0,0:05:31.46,0:05:36.56,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这里的住户决定每人交1百元 感谢他多年来的辛劳{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Everyone who lives here is kicking in $100 as a kind of a thank you.{\r}
+Dialogue: 0,0:05:36.66,0:05:40.43,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}真有人情味 是啊，所以你想开支票还是…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's nice.Want to give me a check?{\r}
+Dialogue: 0,0:05:43.71,0:05:46.47,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不必现在给我 你可以塞进我家门口{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Not now. You can slip it under my door.{\r}
+Dialogue: 0,0:05:46.57,0:05:51.38,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不是那样的，我才刚搬来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,it's not that.I just moved in.{\r}
+Dialogue: 0,0:05:52.28,0:05:55.51,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他在这里工作了25年{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,the guy's worked here for 25 years.{\r}
+Dialogue: 0,0:05:55.62,0:05:58.41,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但我才搬进来25分钟{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes,but I've lived here for 25 minutes.{\r}
+Dialogue: 0,0:06:00.22,0:06:04.52,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我懂了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,I get it.{\r}
+Dialogue: 0,0:06:04.63,0:06:09.39,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等等，我很抱歉 但我甚至没见过霍华{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wait! Look,I'm sorry,it's just I've never even met Howard.{\r}
+Dialogue: 0,0:06:09.50,0:06:14.26,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不认识霍华 霍华是杂务工人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I mean,I don't know Howard.Howard's the handyman.{\r}
+Dialogue: 0,0:06:15.84,0:06:19.47,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但对我来说他只是个普通人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes,but to me,he's just "man."{\r}
+Dialogue: 0,0:06:20.48,0:06:25.85,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，随便，欢迎你搬进来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay. Fine. Whatever.Welcome to the building.{\r}
+Dialogue: 0,0:06:28.62,0:06:30.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你相信吗太不可思议了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Can you believe that guy?{\r}
+Dialogue: 0,0:06:30.72,0:06:33.15,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是啊，我很喜欢他的眼镜{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I really like his glasses.{\r}
+Dialogue: 0,0:06:38.79,0:06:44.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}史提夫主席逢人就说我吝啬 现在整栋楼的人都讨厌我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So then President Steve told everyone I was a cheapskate...and now the whole building hates me.{\r}
+Dialogue: 0,0:06:44.63,0:06:47.16,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}有小孩朝我的膝盖吐口水{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}A little kid spit on my knee.{\r}
+Dialogue: 0,0:06:48.50,0:06:51.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}还叫我用一百美元去擦{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And told me to wipe it off with my $100 bill.{\r}
+Dialogue: 0,0:06:52.51,0:06:54.34,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你是该擦一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You really should wipe it off with something.{\r}
+Dialogue: 0,0:06:57.75,0:07:02.91,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们知道吗  我要办一场派对 邀请整栋楼的人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what?I'll throw a party. For everyone in the building.{\r}
+Dialogue: 0,0:07:03.02,0:07:08.58,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我要请他们坐下，告诉他们 我不是坏人，不是吝啬{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And I'll sit them all down and explain that I am not a bad guy.{\r}
+Dialogue: 0,0:07:08.69,0:07:15.65,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我只是个坚持理念 有原则的人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I am not a cheap guy. I'm just a guy...who stands up for what he believes in.A man with principles.{\r}
+Dialogue: 0,0:07:15.76,0:07:17.20,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}听起来不错{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sounds like a fun party.{\r}
+Dialogue: 0,0:07:19.67,0:07:23.47,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯，如果你希望邻居喜欢你 为什么不付钱算了？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If you want them to like you,why don't you just pay the $100?{\r}
+Dialogue: 0,0:07:23.57,0:07:25.20,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}办一场派对更花钱{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The party will cost you more.{\r}
+Dialogue: 0,0:07:25.31,0:07:31.11,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那不重要，这是原则问题 重点是我的原则{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That doesn't matter!It's my principles! We're talking about my principles!{\r}
+Dialogue: 0,0:07:31.21,0:07:34.51,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我以为重点是讨邻居喜欢{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I thought it was about your neighbors liking you.{\r}
+Dialogue: 0,0:07:34.62,0:07:38.75,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等他们参加过我的派对 就会喜欢我了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}They'll like me once they come to my awesome party.{\r}
+Dialogue: 0,0:07:40.12,0:07:42.56,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我得走了，我要去买铭牌{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I gotta get some nametags.{\r}
+Dialogue: 0,0:07:46.06,0:07:49.15,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那个疯狂的派对动物将会成为你的大舅子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And that crazy party animal will be your brother-in-law.{\r}
+Dialogue: 0,0:07:51.17,0:07:56.54,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}真幽默，但别对着莫妮卡讲 别让她有那些念头{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Very funny. But don't say that to Monica.Don't put any ideas in her head.{\r}
+Dialogue: 0,0:07:56.64,0:08:01.57,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德，你应该知道 她可能本来就有那种念头了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You do realize that those ideas are probably already in Monica's head?{\r}
+Dialogue: 0,0:08:01.68,0:08:02.90,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}为什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Why?{\r}
+Dialogue: 0,0:08:04.55,0:08:08.38,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}因为她爱你，你也爱她{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,because she loves you and because you love her.{\r}
+Dialogue: 0,0:08:08.48,0:08:10.47,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那又怎样呢？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah,so? What's that supposed to mean?{\r}
+Dialogue: 0,0:08:11.79,0:08:15.85,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不要被吓到 我只是在讲你知道的事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Don't freak out! I'm telling you something you already know.{\r}
+Dialogue: 0,0:08:15.96,0:08:19.15,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她因理查不要小孩而跟他分手{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She left Richard because he didn't want to have babies.{\r}
+Dialogue: 0,0:08:19.26,0:08:24.70,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她是个女人，快30了 而且她是莫妮卡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And she is a woman. And she's almost 30. And,you know,it's Monica.{\r}
+Dialogue: 0,0:08:24.80,0:08:27.10,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不是那样看的 我看到两个莫妮卡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I don't see it that way. I see two Monicas.{\r}
+Dialogue: 0,0:08:27.20,0:08:30.60,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}朋友的莫妮卡住在对面 想生一大堆小孩{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}My friend who lives across the hall and wants a lot of babies.{\r}
+Dialogue: 0,0:08:31.71,0:08:34.44,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}另一个新的莫妮卡刚跟我交往{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And the new Monica who I started to date.{\r}
+Dialogue: 0,0:08:34.54,0:08:37.24,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁晓得她想要什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Now,who is to say what she wants?{\r}
+Dialogue: 0,0:08:38.25,0:08:40.18,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我说得没错{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm right.{\r}
+Dialogue: 0,0:08:40.28,0:08:41.58,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我说得没错吧？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Am I right?{\r}
+Dialogue: 0,0:08:43.65,0:08:46.81,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}当然 而且我和理查的情况完全不同{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,absolutely.I'm completely different from Richard.{\r}
+Dialogue: 0,0:08:46.92,0:08:49.75,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}理查是眼科医生 我连眼镜都没戴{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}He's an eye doctor,and I don't wear glasses.{\r}
+Dialogue: 0,0:08:53.13,0:08:57.96,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你说得对，你说得一点也没错 情况确实完全不同{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're right.You're absolutely right. That makes everything different.{\r}
+Dialogue: 0,0:08:59.70,0:09:03.19,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一点也没有不同对吧？ 除非不同等于一样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's not different,is it?Not unless different means "the same."{\r}
+Dialogue: 0,0:09:05.31,0:09:09.44,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你跟那个服务生好逗喔 你真是个疯子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You were so funny with that waiter. You're such a nut!{\r}
+Dialogue: 0,0:09:15.15,0:09:18.05,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}扮吸血鬼本来就好笑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know,bread-stick fangs are always funny.{\r}
+Dialogue: 0,0:09:18.42,0:09:21.82,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是你让它变好笑的，是你好笑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,you make them funny. You're the funny one!{\r}
+Dialogue: 0,0:09:24.23,0:09:28.32,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}凯蒂，我们得沟通一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Look,Katie. Listen,we need to talk,okay?{\r}
+Dialogue: 0,0:09:28.63,0:09:32.76,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我喜欢你，我真的很喜欢你{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Look,I like you. I really do. I like you a lot.{\r}
+Dialogue: 0,0:09:32.87,0:09:36.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但当你开玩笑打我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But sometimes when you playfully punch me like that...{\r}
+Dialogue: 0,0:09:37.00,0:09:42.31,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}感觉就像被一根很小 但很结实的球棒打到{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...it feels like I'm being hit with a very tiny but a very real bat!{\r}
+Dialogue: 0,0:09:44.85,0:09:49.65,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我哪能把你打痛 你在取笑我的身材吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Like I could hurt you.Are you making fun of my size?{\r}
+Dialogue: 0,0:09:49.75,0:09:52.38,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不要取笑我的身材{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Don't make fun of me because of my size!{\r}
+Dialogue: 0,0:09:58.29,0:10:00.09,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这种感觉好吗{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Isn't this great?{\r}
+Dialogue: 0,0:10:00.90,0:10:03.19,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}真想永远这样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Couldn't you just stay like this forever?{\r}
+Dialogue: 0,0:10:06.63,0:10:10.37,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德？你想不想永远这样？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Couldn't you just stay here forever?{\r}
+Dialogue: 0,0:10:10.47,0:10:14.10,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这样，那样，哪样都可以{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah,here,somewhere else. You know,wherever.{\r}
+Dialogue: 0,0:10:15.64,0:10:19.37,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你还好吗？ 我很好，很随性{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Are you okay?I'm cool.Casual.{\r}
+Dialogue: 0,0:10:20.88,0:10:22.37,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你在干什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What are you doing?{\r}
+Dialogue: 0,0:10:22.48,0:10:26.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}只是随便混混玩玩 跟你随性的交往{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Just hanging out. Having fun with the girl that I'm seeing casually.{\r}
+Dialogue: 0,0:10:28.66,0:10:31.25,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我就知道，我就知道你会这样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Man,I knew it! I knew you'd do this.{\r}
+Dialogue: 0,0:10:31.36,0:10:37.03,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}怎样？ 被大家开玩笑结婚的事吓到{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What?Get all freaked out because everybody was joking about marriage!{\r}
+Dialogue: 0,0:10:37.13,0:10:41.40,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你的确想要那些事吧？ 你知道我想要什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,you do want all that stuff,right?You know what I want?{\r}
+Dialogue: 0,0:10:41.50,0:10:44.80,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}没错，你想要小孩 你对孩子痴狂{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes! You want babies! You have baby fever!{\r}
+Dialogue: 0,0:10:46.04,0:10:47.77,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我才没有对孩子痴狂{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I do not have baby fever!{\r}
+Dialogue: 0,0:10:47.88,0:10:51.28,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拜托，你超迷恋小孩和婚姻{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're obsessed with babies and marriage...{\r}
+Dialogue: 0,0:10:51.38,0:10:55.41,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}和一切跟小孩和婚姻有关的事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...and everything that's related to babies and marriage.{\r}
+Dialogue: 0,0:10:55.52,0:10:59.21,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我有个提议 让这个压力锅减压一下吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Why don't we turn the heat down on this pressure cooker!{\r}
+Dialogue: 0,0:11:01.36,0:11:07.26,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你疯了吗？这不是我的问题 是你不敢做出承诺{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Have you lost your mind?This isn't about me. This is about you and your weird commitment crap!{\r}
+Dialogue: 0,0:11:07.36,0:11:11.63,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}少来，我了解你 我知道你脑袋里在想什么{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I know you. I know the thoughts that you have in your head.{\r}
+Dialogue: 0,0:11:13.07,0:11:14.56,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你并非什么都知道{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You don't know everything.{\r}
+Dialogue: 0,0:11:14.67,0:11:17.76,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道我今晚要跟瑞秋出去而不是跟你吗{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Did you know I'm going out with Rachel tonight instead of you?{\r}
+Dialogue: 0,0:11:17.87,0:11:20.60,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道最幼稚的是你吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And that the only baby here is you?{\r}
+Dialogue: 0,0:11:20.71,0:11:23.01,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道我现在都不想看到你吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Did you know I can't even look at you now?{\r}
+Dialogue: 0,0:11:26.21,0:11:28.18,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那我倒是不知道{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I did not know that.{\r}
+Dialogue: 0,0:11:33.79,0:11:38.02,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不会有事吧？她不会离开我吧 这是可以解决的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It'll be okay,right? She won't leave me. This is fixable.{\r}
+Dialogue: 0,0:11:38.13,0:11:40.09,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}当然 绝对的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Yeah,sure. -Absolutely.{\r}
+Dialogue: 0,0:11:40.19,0:11:43.03,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我可以解决 不可能{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}By me? Oh No No{\r}
+Dialogue: 0,0:11:44.53,0:11:49.30,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}除非你有大动作 要非常大{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Unless you make some big gesture.Big,though.{\r}
+Dialogue: 0,0:11:50.40,0:11:51.87,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}老婆来了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The missus!{\r}
+Dialogue: 0,0:11:53.57,0:11:55.44,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}甘瑟，我要一杯咖啡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Gunther,can I get a coffee?{\r}
+Dialogue: 0,0:11:57.08,0:11:58.17,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}外带{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}To go.{\r}
+Dialogue: 0,0:11:59.21,0:12:01.94,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}莫妮卡 我还不想跟你说话{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I still don't want to talk to you.{\r}
+Dialogue: 0,0:12:02.05,0:12:04.92,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}告诉我怎样弥补{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Tell me how to make things right.{\r}
+Dialogue: 0,0:12:05.02,0:12:08.15,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？ 我们都这样，我做错事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What？That's what we do.I mess up,{\r}
+Dialogue: 0,0:12:08.26,0:12:12.21,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你教我怎么补救，我补救完 你又觉得我很可爱{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}you tell me how to fix it and I do.And then you think I'm cute again{\r}
+Dialogue: 0,0:12:13.89,0:12:20.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不想再当你的爱情指导了 这次你得自己想，好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm really tired of being your relationship tutor.Figure this out for yourself.{\r}
+Dialogue: 0,0:12:20.47,0:12:24.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果你对真正的关系恐惧 就别陷进去了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If you're afraid of a real relationship...then don't be in one.{\r}
+Dialogue: 0,0:12:36.95,0:12:39.28,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}（欢迎）{\r}
+Dialogue: 0,0:12:49.16,0:12:51.10,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}（罗斯）{\r}
+Dialogue: 0,0:12:54.03,0:12:55.70,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}（盖勒博士）{\r}
+Dialogue: 0,0:13:02.04,0:13:15.65,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}霍华、霍华…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Howard! Howard! Howard!{\r}
+Dialogue: 0,0:13:15.76,0:13:18.02,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比？菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Phoebe？Phoebe{\r}
+Dialogue: 0,0:13:18.13,0:13:19.39,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hi,Ross!{\r}
+Dialogue: 0,0:13:21.56,0:13:22.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你在干什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What are you doing here?{\r}
+Dialogue: 0,0:13:23.00,0:13:26.99,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我以为这是你的派对 结果是替霍华办的派对{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I thought this was your party,and it's a party for Howard.{\r}
+Dialogue: 0,0:13:27.10,0:13:29.07,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他真是个小可爱{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}He's the sweetest little man.{\r}
+Dialogue: 0,0:13:30.14,0:13:34.23,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比再见，谢谢你出钱 不客气{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}See you,Phoebe. And thanks for chipping in.Oh,sure.{\r}
+Dialogue: 0,0:13:35.64,0:13:39.44,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你出了钱？ 对，1百块钱{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You chipped in?Yeah,$100{\r}
+Dialogue: 0,0:13:39.55,0:13:42.18,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你居然给他们钱{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I can't believe you gave him money.{\r}
+Dialogue: 0,0:13:42.28,0:13:46.45,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不是也同意他们要我出钱 是很不合理的？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I thought you agreed it was unreasonable that they asked me for that money.{\r}
+Dialogue: 0,0:13:46.55,0:13:48.32,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对，但他们没有要我出{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But they didn't ask me.{\r}
+Dialogue: 0,0:13:48.42,0:13:52.62,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}当性感大方的陌生人最好玩了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm just the exotic,generous stranger. That's always fun to be.{\r}
+Dialogue: 0,0:13:53.46,0:13:55.66,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但你让我很难看{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But you're making me look bad.{\r}
+Dialogue: 0,0:13:55.76,0:13:58.93,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁说的，我是在帮你加分{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,I'm not! If anything,I'm making you look better.{\r}
+Dialogue: 0,0:13:59.03,0:14:02.20,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他们会看见你在跟我说话 我又很红{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}They'll see you talking to me. I'm a hit.{\r}
+Dialogue: 0,0:14:03.37,0:14:04.50,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,Phoebe!{\r}
+Dialogue: 0,0:14:05.51,0:14:12.81,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯，你们或许可以交换住处 菲比跟我们比较投缘{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,Ross.Maybe you two could switch apartments.Because Phoebe is more our kind of people.{\r}
+Dialogue: 0,0:14:12.91,0:14:14.24,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你考虑一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Think about it.{\r}
+Dialogue: 0,0:14:17.85,0:14:19.22,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好吧 是我不好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,my bad.{\r}
+Dialogue: 0,0:14:34.87,0:14:37.60,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哇，你看起来好壮{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You look big.{\r}
+Dialogue: 0,0:14:38.67,0:14:40.14,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢，我最近有在练{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks,I've been working out.{\r}
+Dialogue: 0,0:14:41.01,0:14:43.94,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看得出来我穿六件毛衣吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Listen,is it obvious I'm wearing six sweaters?{\r}
+Dialogue: 0,0:14:44.81,0:14:49.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看得出来，但看不出来为什么{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Ya But it's not obvious why.{\r}
+Dialogue: 0,0:14:49.72,0:14:53.52,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我要跟凯蒂分手 所以得多加几层护垫{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm breaking up with Katie,so I put on some extra padding.{\r}
+Dialogue: 0,0:14:53.62,0:14:55.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她平常高兴就会打我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If she hits me when she is happy,...{\r}
+Dialogue: 0,0:14:55.72,0:15:00.06,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}现在我要收回乔伊之爱 她岂不是打得更用力？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}can you imagine how hard she'll hit...when I take away the Joey love?{\r}
+Dialogue: 0,0:15:02.73,0:15:05.96,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我都忘记你的乔伊之爱了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,right. I forgot that you call it that.{\r}
+Dialogue: 0,0:15:11.37,0:15:12.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好可爱的外套{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,cute jacket.{\r}
+Dialogue: 0,0:15:12.47,0:15:15.37,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢，你真好   哦{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks.That's so sweet! -Ouch!{\r}
+Dialogue: 0,0:15:18.78,0:15:24.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是乔伊要你叫的吗？ 你们真是够了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Did Joey tell you to say that? You guys are too much!{\r}
+Dialogue: 0,0:15:26.25,0:15:31.69,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道吗？说真的 我觉得你才够了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what? I gotta tell you...I think you're the one that is too much.{\r}
+Dialogue: 0,0:15:33.93,0:15:36.45,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊的朋友真棒{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Joey has the nicest friends.{\r}
+Dialogue: 0,0:15:37.20,0:15:39.36,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}女朋友更棒{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And the nicest girlfriend.{\r}
+Dialogue: 0,0:15:41.14,0:15:42.50,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你真好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're so sweet!{\r}
+Dialogue: 0,0:15:44.20,0:15:46.00,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你才好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're so sweet!{\r}
+Dialogue: 0,0:15:51.98,0:15:55.21,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊，她踢我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Joey She just kicked me.{\r}
+Dialogue: 0,0:16:00.39,0:16:04.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不替我做点什么吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Aren't you going to do something?{\r}
+Dialogue: 0,0:16:04.19,0:16:07.72,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你最好替我出头 否则我现在就走人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Do something or I'll walk out that door right now.{\r}
+Dialogue: 0,0:16:09.63,0:16:10.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你要不要？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Are you going to?{\r}
+Dialogue: 0,0:16:12.63,0:16:13.73,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不要{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Nah{\r}
+Dialogue: 0,0:16:27.68,0:16:28.71,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Phoebe{\r}
+Dialogue: 0,0:16:28.82,0:16:30.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我就是这个意思{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's what I'm saying{\r}
+Dialogue: 0,0:16:30.72,0:16:32.02,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比？菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Phoebe？Phoebe？{\r}
+Dialogue: 0,0:16:33.15,0:16:36.18,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这真是人间地狱 我走了好不好？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This is a disaster. Can't I please just go?{\r}
+Dialogue: 0,0:16:36.29,0:16:38.35,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不行，我正在帮你说好话{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm talking you up to people.{\r}
+Dialogue: 0,0:16:38.46,0:16:42.90,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}再等一下下 放轻松，拿东西吃，好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Give it some time,relax. Get something to eat.{\r}
+Dialogue: 0,0:16:45.00,0:16:47.70,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你跟他们说了什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What did you tell them about me?{\r}
+Dialogue: 0,0:16:47.80,0:16:51.90,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我说了你和艾蜜莉的事 好争取同情心{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I told them about you and Emily. Trying to get some sympathy.{\r}
+Dialogue: 0,0:16:52.01,0:16:54.77,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但讲一讲你成了坏人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But you came off as the bad guy.{\r}
+Dialogue: 0,0:16:54.88,0:16:57.87,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？ 我想我说的方式不对{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What？I told it wrong.{\r}
+Dialogue: 0,0:16:58.98,0:17:02.85,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们应该先聊聊 我不太知道前因后果{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We should talk about that because I don't understand what happened there.{\r}
+Dialogue: 0,0:17:05.82,0:17:07.55,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这个蛋糕真好吃{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This cake is really good!{\r}
+Dialogue: 0,0:17:07.65,0:17:09.75,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看吧？情况已经在好转了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Things are looking up.{\r}
+Dialogue: 0,0:17:09.86,0:17:13.66,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}天哪，有人切了霍华的蛋糕{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,my God! Someone cut Howard's cake!{\r}
+Dialogue: 0,0:17:17.23,0:17:20.06,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁会做这种事？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Who would do a thing like that?{\r}
+Dialogue: 0,0:17:26.31,0:17:27.83,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}3B的住户{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}3B{\r}
+Dialogue: 0,0:17:29.81,0:17:34.51,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你白吃白喝，扫了大家的兴 是不是该回家了？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You got your free food. You ruined everyone's fun.Isn't it time you went home?{\r}
+Dialogue: 0,0:17:34.62,0:17:36.78,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}没错，快滚{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah get out Now{\r}
+Dialogue: 0,0:17:36.88,0:17:39.05,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}回3B去，3B{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Go back to 3B,3B.{\r}
+Dialogue: 0,0:17:39.82,0:17:44.88,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}大家安静一下，我有话要说{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Everyone,calm down! I have something that I'd like to say.{\r}
+Dialogue: 0,0:17:47.29,0:17:49.73,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这里有谁喜欢罗斯？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Who here likes Ross?{\r}
+Dialogue: 0,0:17:54.03,0:17:55.83,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们当然不喜欢他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Of course you don't like him.{\r}
+Dialogue: 0,0:17:55.94,0:18:01.70,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他不交钱 我问有谁喜欢他，他自己举手{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}He didn't give you any money.He raised his own hand when I asked,"Who likes Ross?"{\r}
+Dialogue: 0,0:18:01.81,0:18:04.40,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他还贴两个铭牌{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And he's wearing two nametags.{\r}
+Dialogue: 0,0:18:06.85,0:18:11.28,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}老实说，刚开始我也不喜欢他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'll be honest. When I first met Ross,I didn't like him at all.{\r}
+Dialogue: 0,0:18:12.65,0:18:19.82,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但了解他之后 我就发现他很贴心很大方{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Once I got to know him,I saw that he is really sweet...and caring and very generous.{\r}
+Dialogue: 0,0:18:19.93,0:18:24.19,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}请不要还不了解他就论断他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All I'm saying is,don't judge Ross before you get to know him.{\r}
+Dialogue: 0,0:18:24.30,0:18:29.07,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我现在很喜欢你们 但是刚见面时{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know,I like all of you guys now. But when I first met you,you know?{\r}
+Dialogue: 0,0:18:29.17,0:18:32.37,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}寇特，粗鲁的酒鬼{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Kurt? I thought,abrasive drunk.{\r}
+Dialogue: 0,0:18:34.41,0:18:38.28,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}萝拉，笨得令人傻眼{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Lola?Mind-numbingly stupid.{\r}
+Dialogue: 0,0:18:39.35,0:18:44.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}还有你们 淘金女，老牛吃嫩草的变态{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You guys. Gold digger,cradle-robbing perv.{\r}
+Dialogue: 0,0:18:46.02,0:18:49.48,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们懂我的意思吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So I think you all know what I mean.{\r}
+Dialogue: 0,0:18:55.80,0:18:58.99,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我没想到他们会扔东西{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Obviously,I didn't think they would throw things.{\r}
+Dialogue: 0,0:19:00.30,0:19:04.17,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我想说我一直羞辱他们 你就会跳出来帮他们{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I thought if I kept insulting them you'd defend them.{\r}
+Dialogue: 0,0:19:04.27,0:19:08.64,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你就可以变成英雄 对喔{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Then you'd look like the hero.Oh wow yeah{\r}
+Dialogue: 0,0:19:08.74,0:19:10.71,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看啊 我没理解{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}See,I did not get that.{\r}
+Dialogue: 0,0:19:15.15,0:19:18.85,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}莫妮卡呢？我有急事找她 她在吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Where's Monica? I need to talk to her,it's urgent.{\r}
+Dialogue: 0,0:19:18.95,0:19:20.28,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我就是莫妮卡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm Monica.{\r}
+Dialogue: 0,0:19:20.39,0:19:23.95,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我有急事要找你 好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I need to talk to you. It's urgent.{\r}
+Dialogue: 0,0:19:24.06,0:19:29.59,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我想了很多我们的事… 你和我的事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I've been thinking...about us. A lot of "us" thinking.{\r}
+Dialogue: 0,0:19:29.70,0:19:33.76,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我猜只有一个办法{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I guess there's only one way to do this.{\r}
+Dialogue: 0,0:19:37.80,0:19:39.74,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你要干什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What are you doing?{\r}
+Dialogue: 0,0:19:39.84,0:19:42.43,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}莫妮卡… 拜托不要{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Monica…Don't do it.{\r}
+Dialogue: 0,0:19:42.54,0:19:44.53,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你愿意嫁给我吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Will you marry me?{\r}
+Dialogue: 0,0:19:47.71,0:19:50.15,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么馊主意啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What a bad idea.{\r}
+Dialogue: 0,0:19:50.25,0:19:52.45,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不敢看{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I can't not look at it.{\r}
+Dialogue: 0,0:19:54.56,0:19:57.62,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德，你为什么要这样？ 我不知道{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Why are you doing this?I don't know.{\r}
+Dialogue: 0,0:19:58.59,0:20:01.65,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但是我知道我不怕{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But I know I'm not afraid to do this.{\r}
+Dialogue: 0,0:20:01.76,0:20:05.72,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德 因为我很抱歉？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm doing this because I'm sorry?{\r}
+Dialogue: 0,0:20:08.00,0:20:12.50,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你真的觉得结婚的最好理由 是因为你很抱歉？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Do you think the best reason to get married is because you're sorry?{\r}
+Dialogue: 0,0:20:12.61,0:20:15.17,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不，最好的理由是未婚先孕{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The best reason is pregnancy.{\r}
+Dialogue: 0,0:20:18.38,0:20:23.61,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}“抱歉”大约排第四 在“准备好了”和“真的想结婚”之后{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sorry is fourth,behind being ready and actually wanting to get married.{\r}
+Dialogue: 0,0:20:23.72,0:20:25.48,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你愿意做我的妻子吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Will you be my wife?{\r}
+Dialogue: 0,0:20:28.16,0:20:34.56,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德，你先静下来 想想这件事有多荒谬{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I want you to take a minute and think about how ridiculous this sounds.{\r}
+Dialogue: 0,0:20:37.53,0:20:40.23,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我的确有点希望他们都不在{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm kind of wishing everyone wasn't here now.{\r}
+Dialogue: 0,0:20:42.10,0:20:48.80,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这些事都不是我引出来的 我从来没说现在就想结婚生子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}None of that came from me.I never said I wanted to have babies and get married!{\r}
+Dialogue: 0,0:20:48.91,0:20:52.35,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但我真的很乱 后来又跟他们谈过{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I was really confused. Then I talked to these guys.{\r}
+Dialogue: 0,0:20:52.45,0:20:54.81,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁？离婚两次的人和乔伊？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Who? Two divorces and Joey?{\r}
+Dialogue: 0,0:20:56.78,0:20:58.18,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她说得对{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She's right,you know?{\r}
+Dialogue: 0,0:20:59.95,0:21:03.12,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但这仍是种奚落{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah,but still,cheap shot!{\r}
+Dialogue: 0,0:21:04.73,0:21:11.03,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道吗？ 我不是说了要你自己想该怎么做的吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know when I said that I want you...to deal with relationship stuff all on your own?{\r}
+Dialogue: 0,0:21:11.13,0:21:14.59,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你还做不到这一点 我也这么认为{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're not ready.I didn't think I was!{\r}
+Dialogue: 0,0:21:19.57,0:21:24.03,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}天哪，要是我答应了呢？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,my God.What would you have done if I had said yes?{\r}
+Dialogue: 0,0:21:24.14,0:21:29.91,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那我会很开心 能跟心爱的人共度下半生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I would've been happy because...I would spend the rest of my life with the woman I love.{\r}
+Dialogue: 0,0:21:31.32,0:21:34.98,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}又或者你会在那扇门上 看到钱德形状的洞{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Or you would have seen a Chandler-shaped hole in that door.{\r}
+Dialogue: 0,0:21:39.63,0:21:43.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯，请把刀子给我 我才不要{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Will you pass that knife?No,I will not.{\r}
+Dialogue: 0,0:21:43.20,0:21:45.49,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你不必这么凶吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You don't have to be mean about it.{\r}
+Dialogue: 0,0:21:45.60,0:21:48.93,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你说得对，对不起 嫁给我好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're right. I'm sorry. Will you marry me?{\r}
+Dialogue: 0,0:21:52.41,0:21:56.60,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我正想向你求婚 因为我上星期忘了跟你打招呼{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I was going to ask you to marry me because I didn't say hello to you.{\r}
+Dialogue: 0,0:21:57.61,0:22:02.67,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不，菲比，那种情况应该只需要同居 但我也不确定，钱德？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh no wait Pheebs, I think for something like that you just ask them to move in with you. But I'm not sure, Chandler?{\r}
+Dialogue: 0,0:22:02.78,0:22:05.08,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我还要被笑多久？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}How long is this going to go on?{\r}
+Dialogue: 0,0:22:05.19,0:22:11.42,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那得看你做的事有多傻 所以…会很久{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I think the length of teasing...is directly related to how insane you were. So a long time.{\r}
+Dialogue: 0,0:22:12.33,0:22:16.26,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}真好玩 记得“我们分手了”风波吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This is fun!Remember that "we were on a break" thing?{\r}
+Dialogue: 0,0:22:16.36,0:22:18.89,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我很抱歉，嫁给我好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm sorry. Will you marry me?{\r}
+Dialogue: 0,0:22:24.50,0:22:26.87,*Default,说话人,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一点也不好笑 {\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's not funny.{\r}

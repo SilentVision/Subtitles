@@ -1,0 +1,412 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.1 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 漫游字幕
+Original Script: 漫游字幕组
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: *Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,0
+Style: Default,楷体,25,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,1,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.20,0:00:05.57,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拜托！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,come on!{\r}
+Dialogue: 0,0:00:06.40,0:00:10.77,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们也要过感恩节 不要老看足球，来帮帮忙{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's your Thanksgiving too. Instead of watching football,you could help.{\r}
+Dialogue: 0,0:00:10.98,0:00:12.27,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们知道啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We know.{\r}
+Dialogue: 0,0:00:14.65,0:00:17.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你要把棉花糖排成同心圆{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You wanna put the marshmallows in concentric circles.{\r}
+Dialogue: 0,0:00:19.05,0:00:21.95,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不，是你要把棉花糖 排成同心圆{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,you want to put them in concentric circles.{\r}
+Dialogue: 0,0:00:22.22,0:00:23.98,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我要的是这样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I want to do this.{\r}
+Dialogue: 0,0:00:33.63,0:00:34.89,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}年年如此{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Every year.{\r}
+Dialogue: 0,0:00:36.67,0:00:38.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}本集播出：“足球”{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The One With the Football{\r}
+Dialogue: 0,0:01:23.11,0:01:25.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}十码、五码 触地得分，太棒了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}To the 10,to the 5. Touchdown,Giants!{\r}
+Dialogue: 0,0:01:26.28,0:01:31.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我倒想试试看看足球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know,for once,I am gonna try to watch one of these things.{\r}
+Dialogue: 0,0:01:32.19,0:01:33.62,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}中场休息{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Halftime.{\r}
+Dialogue: 0,0:01:35.26,0:01:38.79,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁想出去玩玩球？ 来个3对3？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Who wants to throw the ball around? Get a little 3-on-3 going?{\r}
+Dialogue: 0,0:01:39.03,0:01:41.69,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一定很好玩 我可以参加吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-That would be fun! -Can I play too?{\r}
+Dialogue: 0,0:01:41.90,0:01:44.27,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我从来没玩过足球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I've never played football,ever.{\r}
+Dialogue: 0,0:01:44.54,0:01:46.73,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}太好了，你可以防守钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Great! You can cover Chandler.{\r}
+Dialogue: 0,0:01:48.61,0:01:50.27,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不想玩球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I don't really want to play.{\r}
+Dialogue: 0,0:01:50.94,0:01:53.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你跟珍妮丝分手之后 就一直提不起劲{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You never do anything since you and Janice broke up.{\r}
+Dialogue: 0,0:01:53.88,0:01:54.71,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}才不是这样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Not true.{\r}
+Dialogue: 0,0:01:54.98,0:01:58.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我想整天穿着浴袍吃花生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I wanted to wear my bathrobe and eat peanut clusters all day.{\r}
+Dialogue: 0,0:01:58.65,0:02:01.92,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我还想在早上喝酒 别说我没有目标{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And start drinking in the morning. Don't say I don't have goals!{\r}
+Dialogue: 0,0:02:02.59,0:02:04.99,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你得把她忘了，好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You have to start getting over her,all right?{\r}
+Dialogue: 0,0:02:05.26,0:02:09.09,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果你来玩球，呼吸新鲜空气 也许就会忘记珍妮丝{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If you play,maybe it'll take your mind off Janice.{\r}
+Dialogue: 0,0:02:09.33,0:02:13.89,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}否则大家都会生你的气 因为这样两队人数就不平均了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If you don't,everyone will be mad at you because the teams won't be even.{\r}
+Dialogue: 0,0:02:14.73,0:02:15.36,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我参加{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,I'll play.{\r}
+Dialogue: 0,0:02:15.56,0:02:18.40,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但是我不喜欢你{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But l don't like you.{\r}
+Dialogue: 0,0:02:20.00,0:02:21.60,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来吧，罗斯？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's do it! Ross?{\r}
+Dialogue: 0,0:02:21.87,0:02:23.67,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？ 想玩足球吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-What? -Wanna play football?{\r}
+Dialogue: 0,0:02:26.81,0:02:29.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}莫妮卡跟我都不能玩足球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Monica and I aren't supposed to play football.{\r}
+Dialogue: 0,0:02:30.52,0:02:32.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谁说的？你妈？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Says who? Your mom?{\r}
+Dialogue: 0,0:02:36.62,0:02:38.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}“你是什么意思？”她问她的男朋友{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}''What do you mean?''she asks her boyfriend...{\r}
+Dialogue: 0,0:02:38.75,0:02:41.09,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}惊恐地听着答案{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...really scared to hear the answer.{\r}
+Dialogue: 0,0:02:41.49,0:02:45.29,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}以前每年圣诞节 我们都玩触身美式足球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Every Thanksgiving,we used to have a touch football game...{\r}
+Dialogue: 0,0:02:45.50,0:02:47.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}叫做盖勒杯{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...called The Geller Bowl.{\r}
+Dialogue: 0,0:02:47.46,0:02:49.73,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不…你的口气要很骄傲才对{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,no,no. You say that proudly!{\r}
+Dialogue: 0,0:02:50.80,0:02:53.40,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}反正罗斯跟我每次都当队长{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Anyway,Ross and l were always captains.{\r}
+Dialogue: 0,0:02:54.30,0:02:57.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}竞争越来越激烈 有一年，第六届盖勒杯{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It got kind of competitive,and one year,Geller Bowl Vl...{\r}
+Dialogue: 0,0:02:58.11,0:03:01.51,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不小心打断罗斯的鼻子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... I accidentally broke Ross' nose.{\r}
+Dialogue: 0,0:03:02.78,0:03:04.91,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}很明显不是偶然的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It was so not an accident.{\r}
+Dialogue: 0,0:03:05.15,0:03:07.62,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她看到我就快抱住她 就用她的…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}She saw I was about to tag her,so she threw...{\r}
+Dialogue: 0,0:03:07.85,0:03:10.65,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}大胖手肘撞我的脸{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... her big fat grandma-arm elbow in my face...{\r}
+Dialogue: 0,0:03:10.85,0:03:12.45,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}然后拼命往前跑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...and just kept running.{\r}
+Dialogue: 0,0:03:12.99,0:03:14.96,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}因此赢得致胜的一分{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}To score the winning touchdown,by the way.{\r}
+Dialogue: 0,0:03:16.86,0:03:19.66,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你没有赢，那次得分不算{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You did not win the game. The touchdown didn't count...{\r}
+Dialogue: 0,0:03:19.86,0:03:24.86,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}因为你公然犯规 野蛮地打断我的鼻子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... because of the spectacularly illegal,and savage,nose-breaking.{\r}
+Dialogue: 0,0:03:26.04,0:03:27.26,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我赢了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I won the game.{\r}
+Dialogue: 0,0:03:27.47,0:03:30.70,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是吗？ 那你怎么没得到盖勒奖杯？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah? Then how come you didn't get the Geller Cup?{\r}
+Dialogue: 0,0:03:32.38,0:03:34.44,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}有盖勒奖杯？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}There was a Geller Cup?{\r}
+Dialogue: 0,0:03:35.11,0:03:37.81,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对，这是赢球的奖品{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes,the trophy you got if you won the game.{\r}
+Dialogue: 0,0:03:38.02,0:03:41.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但爸爸说我们谁都没赢 他受够了我们打来打去{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But Dad said nobody won,and he was sick of our fighting.{\r}
+Dialogue: 0,0:03:41.62,0:03:43.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}所以他把奖品…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So he took the trophy...{\r}
+Dialogue: 0,0:03:49.79,0:03:51.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}丢进湖里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...threw it in the lake.{\r}
+Dialogue: 0,0:03:52.83,0:03:54.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这个诅咒解除了没有？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And was the curse lifted?{\r}
+Dialogue: 0,0:03:56.83,0:03:58.03,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}反正…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Anyway...{\r}
+Dialogue: 0,0:03:58.84,0:04:02.00,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}妈妈说我们不能再玩足球了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... Mom said we weren't allowed to play football again.{\r}
+Dialogue: 0,0:04:02.51,0:04:05.37,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道吗？ 我觉得我们应该一起去玩球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what? I think we should play a game.{\r}
+Dialogue: 0,0:04:05.64,0:04:07.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我是说，都已经过了12年了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I mean,come on. It's been 12 years.{\r}
+Dialogue: 0,0:04:08.35,0:04:09.74,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}跟你私下说句话好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Can I see you for a second?{\r}
+Dialogue: 0,0:04:14.99,0:04:15.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}懦夫{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wuss!{\r}
+Dialogue: 0,0:04:16.09,0:04:18.18,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我们参加{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,we're gonna play.{\r}
+Dialogue: 0,0:04:19.02,0:04:22.89,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等等，我们怎么过去？ 我妈不准我过马路{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wait. How we gonna get there? My mom won't let me cross the street.{\r}
+Dialogue: 0,0:04:28.37,0:04:29.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Here you go.{\r}
+Dialogue: 0,0:04:31.50,0:04:33.03,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}把球丢过来 等等{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Let's bring it in. -Wait.{\r}
+Dialogue: 0,0:04:33.24,0:04:34.53,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}亲爱的，把球传给我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Honey,throw it to me!{\r}
+Dialogue: 0,0:04:34.77,0:04:35.57,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Here you go.{\r}
+Dialogue: 0,0:04:38.68,0:04:41.01,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你差点打中我的脸{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That almost hit me in the face!{\r}
+Dialogue: 0,0:04:41.45,0:04:43.07,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们要选队长（与“船长”同字）{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We have to pick captains.{\r}
+Dialogue: 0,0:04:43.35,0:04:47.18,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}还有“坦尼尔们”（肥皂剧《船长与坦尼尔》的女主角）{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And then "Tennille."{\r}
+Dialogue: 0,0:04:47.68,0:04:49.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们怎么决定队长？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So how do we decide that?{\r}
+Dialogue: 0,0:04:49.42,0:04:51.61,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}装兔宝宝好不好？ 什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Why don't we just bunny up? -What?{\r}
+Dialogue: 0,0:04:51.89,0:04:53.05,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}兔子 兔子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Bunny! -Bunny!{\r}
+Dialogue: 0,0:04:54.89,0:04:56.76,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看来队长就是罗斯跟我了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Looks like Ross and I are captains.{\r}
+Dialogue: 0,0:04:57.76,0:05:01.63,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那些在高中跟你们混的人，肯定都上天堂了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}There must be a place in heaven for people who hung out with you in high school.{\r}
+Dialogue: 0,0:05:02.73,0:05:06.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我先装兔子 所以我先挑，乔伊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I bunnied first,so I get to pick first. Joey.{\r}
+Dialogue: 0,0:05:06.54,0:05:08.37,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢 莫妮卡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Thank you. -Monica!{\r}
+Dialogue: 0,0:05:08.84,0:05:10.43,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我是你最好的朋友{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm your best friend.{\r}
+Dialogue: 0,0:05:10.84,0:05:14.90,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}甜心，别担心，会有人选你的 钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sweetie,don't worry,you'll get picked.Chandler{\r}
+Dialogue: 0,0:05:16.90,0:05:18.90,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-罗斯！-菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Ross！-Phoebe{\r}
+Dialogue: 0,0:05:22.52,0:05:24.08,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}甜心，现在我选你了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sweetie,now I pick you.{\r}
+Dialogue: 0,0:05:24.36,0:05:27.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你才没选我 你只能选我了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You don't pick me. You're stuck with me!{\r}
+Dialogue: 0,0:05:28.63,0:05:30.03,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，这样吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay. So let's see.{\r}
+Dialogue: 0,0:05:30.23,0:05:33.36,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛场地是 从垃圾桶到路灯，好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's play from the trash can to the light post,right?{\r}
+Dialogue: 0,0:05:33.60,0:05:35.09,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}两手发球，开始吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Two-hand touch. We'll kick off.{\r}
+Dialogue: 0,0:05:35.30,0:05:37.96,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}大家听好了，28分钟后…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}People,listen. I've got 28 minutes...{\r}
+Dialogue: 0,0:05:38.37,0:05:40.10,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我就给你们好看{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... before I have to baste again.{\r}
+Dialogue: 0,0:05:40.31,0:05:42.30,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哇，就跟职业球队一样{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wow,just like in the pros.{\r}
+Dialogue: 0,0:05:43.04,0:05:44.53,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，临场会议{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,huddle up!{\r}
+Dialogue: 0,0:05:44.78,0:05:48.11,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}临场会议 等等我…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Huddle up over here! -Wait for me! Wait for me!{\r}
+Dialogue: 0,0:05:48.81,0:05:50.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}太棒了！这是我的第一次{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,cool! My first huddle.{\r}
+Dialogue: 0,0:05:52.82,0:05:55.65,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}老实说 你们觉得钱德怎么样？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So what do you guys really think of Chandler?{\r}
+Dialogue: 0,0:05:57.59,0:06:00.06,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道自己在做什么吧？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what you're doing,right?{\r}
+Dialogue: 0,0:06:00.59,0:06:02.65,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊接球，我们阻挡{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Joey will catch it. We'll block.{\r}
+Dialogue: 0,0:06:02.93,0:06:04.05,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么叫“阻挡”？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What's "block"?{\r}
+Dialogue: 0,0:06:04.80,0:06:08.99,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我还以为你知道自己在做什么 我以为你是指人生的方向{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-I thought you knew what you were doing. -I thought you meant in life!{\r}
+Dialogue: 0,0:06:09.90,0:06:10.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}结束{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Break!{\r}
+Dialogue: 0,0:06:11.60,0:06:14.30,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}球是珍妮丝…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The ball is Janice. The ball is Janice.{\r}
+Dialogue: 0,0:06:20.81,0:06:22.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}该死…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Son of a!{\r}
+Dialogue: 0,0:06:22.75,0:06:24.61,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拜托 对不起…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Come on! -I'm sorry. I'm sorry.{\r}
+Dialogue: 0,0:06:24.82,0:06:26.94,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这样吧，我们用丢的好了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what? We're just gonna throw it.{\r}
+Dialogue: 0,0:06:28.69,0:06:29.95,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我来接{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I got it!{\r}
+Dialogue: 0,0:06:30.19,0:06:31.59,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}快…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Go,go,go!{\r}
+Dialogue: 0,0:06:40.33,0:06:43.32,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}得分，7比0{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Score! Seven to nothing!{\r}
+Dialogue: 0,0:06:44.33,0:06:46.53,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}亲爱的，我很确信这件事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Honey,just so that l'm clear on this.{\r}
+Dialogue: 0,0:06:46.73,0:06:50.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}刚才临场会议的时候你说只要乔伊拿到球 你就去阻止他{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You said in the huddle that if Joey caught the ball, you'd be the one to stop him.{\r}
+Dialogue: 0,0:06:50.84,0:06:53.33,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}而你并没有，这是足球策略吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Now, you didn't.So is that like a football strategy?{\r}
+Dialogue: 0,0:06:53.54,0:06:56.77,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是的，这是我摔倒战术的一部分{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah, it was part of my plan to fall instantly behind. So....{\r}
+Dialogue: 0,0:06:57.01,0:06:58.24,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,let's go.{\r}
+Dialogue: 0,0:06:58.85,0:07:00.07,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}输家滚蛋{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Losers walk.{\r}
+Dialogue: 0,0:07:00.28,0:07:02.98,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是吗？输家只会说{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah? Losers talk.{\r}
+Dialogue: 0,0:07:03.18,0:07:05.28,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}其实输家是押韵的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Actually,losers rhyme.{\r}
+Dialogue: 0,0:07:07.69,0:07:08.75,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}43…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Forty-three...{\r}
+Dialogue: 0,0:07:09.29,0:07:10.45,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}74…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...seventy-four....{\r}
+Dialogue: 0,0:07:14.53,0:07:16.09,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拉开进攻阵式好吗？ 好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You wanna go shotgun?{\r}
+Dialogue: 0,0:07:19.30,0:07:22.79,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一个密西西比、两个密西西比（美国人数秒的方法） 这里…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-One Mississippi,two Mississippi.... -Over here! Over here!{\r}
+Dialogue: 0,0:07:23.70,0:07:24.83,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我差点就接到了！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I almost caught it!{\r}
+Dialogue: 0,0:07:26.44,0:07:29.50,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}太好了，现在的比分是7比 差一点7{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Great. Now the score's seven to almost seven.{\r}
+Dialogue: 0,0:07:30.04,0:07:34.50,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这场比赛，我要你往前场跑 再用假动作往右边跑，好吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}On this play,I want you to do a down-and-out to the right,okay?{\r}
+Dialogue: 0,0:07:34.78,0:07:36.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}开始 等等，那我要干嘛？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Break! -Wait. What am I gonna do?{\r}
+Dialogue: 0,0:07:36.78,0:07:37.68,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You?{\r}
+Dialogue: 0,0:07:38.22,0:07:39.21,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你跑远一点{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You go long.{\r}
+Dialogue: 0,0:07:39.45,0:07:40.48,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}多远？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}How long?{\r}
+Dialogue: 0,0:07:40.79,0:07:42.95,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}到你几乎看不见我们为止{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Until we start to look very small.{\r}
+Dialogue: 0,0:07:43.89,0:07:44.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}开始{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Break!{\r}
+Dialogue: 0,0:07:46.56,0:07:47.86,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一个密西西比、两个密西西比…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}One Mississippi{\r}
+Dialogue: 0,0:07:48.13,0:07:49.69,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}换防守位置…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Switch! Switch! Switch!{\r}
+Dialogue: 0,0:08:01.57,0:08:02.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢你挡住了我们的球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks for stopping our ball.{\r}
+Dialogue: 0,0:08:03.21,0:08:05.07,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们在玩美式足球？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You are playing American football?{\r}
+Dialogue: 0,0:08:06.31,0:08:09.48,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哇！你好像来自其他国家{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wow! You're,like,from a whole other country!{\r}
+Dialogue: 0,0:08:10.22,0:08:11.18,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我是荷兰人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm Dutch.{\r}
+Dialogue: 0,0:08:11.42,0:08:12.75,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}嗨，我是乔伊（乔伊以为“荷兰人”是人名）{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hi,I'm Joey.{\r}
+Dialogue: 0,0:08:13.99,0:08:15.04,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我是玛嘉{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I am Margha.{\r}
+Dialogue: 0,0:08:15.86,0:08:18.69,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对不起，荷兰人 最后一个字我没听懂{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sorry,Dutch,I didn't get that last little bit.{\r}
+Dialogue: 0,0:08:19.06,0:08:21.65,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊，你玩球还是… 嗨，我是钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You wanna play football or Hi,I'm Chandler.{\r}
+Dialogue: 0,0:08:21.86,0:08:23.66,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你好，钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hello,Chandler.{\r}
+Dialogue: 0,0:08:23.93,0:08:26.76,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}她叫做荷兰人，又叫做玛亨{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Her name is Dutch and also "Margham."{\r}
+Dialogue: 0,0:08:36.54,0:08:40.61,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们，调情的男孩，我们在比赛{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yo, flirty boys.We're in the middle of a game.{\r}
+Dialogue: 0,0:08:40.82,0:08:43.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来吧，开始了 第二次十码进攻{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,guys! Let's go! Second down!{\r}
+Dialogue: 0,0:08:44.36,0:08:47.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}喂，是第三次十码进攻了 才不是，这是第二次而已{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Hello? It's third down. -No,it's not. It's second.{\r}
+Dialogue: 0,0:08:48.30,0:08:49.13,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哇！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wow.{\r}
+Dialogue: 0,0:08:49.43,0:08:50.49,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哇什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}"Wow" what?{\r}
+Dialogue: 0,0:08:50.77,0:08:54.70,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我真没想到你现在还来这一套{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}How it just amazes me that you're still pulling stuff like this.{\r}
+Dialogue: 0,0:08:55.14,0:08:59.04,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哪一套？这是第二次进攻 好，是第二次进攻{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Pulling what? It's second down. -Okay,it's second down.{\r}
+Dialogue: 0,0:08:59.44,0:09:01.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你要来几个第二次进攻都可以{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Take all the second downs you need.{\r}
+Dialogue: 0,0:09:02.48,0:09:05.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我听到了 我就是说给你听的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-I heard that. -Well,I said it loud.{\r}
+Dialogue: 0,0:09:07.05,0:09:09.11,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我可以留下来看吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It is okay if I stay and watch?{\r}
+Dialogue: 0,0:09:09.38,0:09:10.81,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我现在还不能回家{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}l can't go home just yet.{\r}
+Dialogue: 0,0:09:11.01,0:09:16.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我的室友是个很差劲的美国商人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}My roommate is forshlocking a big American businessman.{\r}
+Dialogue: 0,0:09:17.62,0:09:20.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你只管坐着看 对啊，留下来吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Just sit right there. -Yeah,why don't you stick around?{\r}
+Dialogue: 0,0:09:20.79,0:09:22.41,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}很顺利 我想也是{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-That went well. -I think so.{\r}
+Dialogue: 0,0:09:22.69,0:09:25.59,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我想跟她要电话号码{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I was thinking about asking her for her number.{\r}
+Dialogue: 0,0:09:25.86,0:09:30.59,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢了，老兄 但我自己开口比较有说服力{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks,man,but it makes a stronger statement if I ask for it myself.{\r}
+Dialogue: 0,0:09:31.96,0:09:36.70,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我是替我自己要的 好帮我忘了珍妮丝{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I was thinking about for me,as part of that getting-over-Janice thing.{\r}
+Dialogue: 0,0:09:37.37,0:09:38.56,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,yeah. That.{\r}
+Dialogue: 0,0:09:39.54,0:09:41.63,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好吧，如果这么重要 我就让给你吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If it means that much,I'll let you have her.{\r}
+Dialogue: 0,0:09:41.87,0:09:42.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thanks.{\r}
+Dialogue: 0,0:09:44.48,0:09:45.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}让给我？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}"Let me have her"?{\r}
+Dialogue: 0,0:09:46.78,0:09:49.37,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你是说如果你不让 我就没有机会？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You mean if you didn't,I wouldn't have a shot?{\r}
+Dialogue: 0,0:09:49.88,0:09:52.41,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我没有说得这么明显，不过…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I don't like to say it out loud...{\r}
+Dialogue: 0,0:09:53.09,0:09:54.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}没错{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... but yeah!{\r}
+Dialogue: 0,0:09:55.32,0:09:58.98,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}别难过，我们各有优点 你比较有数学头脑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We all have our strengths. You're better with numbers and stuff.{\r}
+Dialogue: 0,0:09:59.73,0:10:02.39,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}数学？你说我数学好？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Math? You're giving me math?{\r}
+Dialogue: 0,0:10:03.66,0:10:05.79,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，这样吧，算了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,you know what? Forget about it.{\r}
+Dialogue: 0,0:10:06.06,0:10:08.50,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你去追她，我们看谁能追到{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You go for the girl. We'll see who gets her.{\r}
+Dialogue: 0,0:10:12.40,0:10:15.74,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我要你左边防守 而亲爱的 你…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I want you to run a post-pattern to the left. And,sweetie{\r}
+Dialogue: 0,0:10:15.97,0:10:17.17,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对，我知道，跑远一点{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah,I know. Go long.{\r}
+Dialogue: 0,0:10:17.44,0:10:20.07,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我就只是跑来跑去而已{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All I'm doing is running back and forth from the huddle.{\r}
+Dialogue: 0,0:10:21.75,0:10:24.91,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你要不要干脆留在场外好了？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,you wanna just stay out there?{\r}
+Dialogue: 0,0:10:26.32,0:10:27.98,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我能看一秒钟这个东西吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Can I see that for a second?{\r}
+Dialogue: 0,0:10:32.26,0:10:33.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，来吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,let's go.{\r}
+Dialogue: 0,0:10:33.59,0:10:34.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我来防守钱德 挡下开球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-I got Chandler! -Hike!{\r}
+Dialogue: 0,0:10:35.09,0:10:37.99,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一个密西西比、两个密西西比、三个密西西比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}One Mississippi,two Mississippi,three Mississippi.{\r}
+Dialogue: 0,0:10:38.20,0:10:39.46,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}漏接{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Fumble!{\r}
+Dialogue: 0,0:10:45.47,0:10:48.46,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你是怎么搞的？ 这是我最喜欢的一件毛织杉{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What's the matter with you? This is my favorite jersey.{\r}
+Dialogue: 0,0:10:49.11,0:10:50.63,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那你现在有两件了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,now you have two.{\r}
+Dialogue: 0,0:10:52.61,0:10:54.51,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}嘿，我的数学还真不赖{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,I am good at math!{\r}
+Dialogue: 0,0:10:55.45,0:10:58.01,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}够了，我本来还想让给你{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's it. I was still gonna let you have her.{\r}
+Dialogue: 0,0:10:58.28,0:11:00.51,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}现在你想都不要想 等着看自己出丑吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But now,prepare to feel bad about yourself.{\r}
+Dialogue: 0,0:11:00.79,0:11:04.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我已经准备了一辈子了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I've been preparing for that my entire life!{\r}
+Dialogue: 0,0:11:04.79,0:11:07.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我等着看你出丑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Or something about you that's mean!{\r}
+Dialogue: 0,0:11:07.56,0:11:09.32,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}快点，比赛了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,guys. Let's go.{\r}
+Dialogue: 0,0:11:09.56,0:11:11.39,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比数拉平，我们没时间了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Tie score. We're running out of time.{\r}
+Dialogue: 0,0:11:11.86,0:11:13.96,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}42、38，挡下开球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Forty-two,38,hike!{\r}
+Dialogue: 0,0:11:14.17,0:11:15.19,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我接到了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I got it!{\r}
+Dialogue: 0,0:11:16.24,0:11:18.29,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我的胸部骨折了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Broken boobs!{\r}
+Dialogue: 0,0:11:19.71,0:11:21.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比，快跑 快跑，菲比，快跑{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Pheebs,run! -Run,Phoebe,run!{\r}
+Dialogue: 0,0:11:22.47,0:11:24.24,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}触地得分！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Touchdown! Touchdown!{\r}
+Dialogue: 0,0:11:28.51,0:11:30.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}铃声响了，不算{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The buzzer buzzed. It doesn't count.{\r}
+Dialogue: 0,0:11:31.05,0:11:32.74,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那是在传球之前 在传球之后{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-After the snap. -Before the snap.{\r}
+Dialogue: 0,0:11:33.05,0:11:34.25,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}之后 之前{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-After. -Before.{\r}
+Dialogue: 0,0:11:34.52,0:11:36.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这很重要吗？ 对{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Does it really matter? -Yes!{\r}
+Dialogue: 0,0:11:36.49,0:11:40.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}但我触地得分了 这是我的第一次{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But I made a touchdown. It was my first touchdown.{\r}
+Dialogue: 0,0:11:40.26,0:11:42.66,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比，太好了 可是不算{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Pheebs,that's great. Doesn't count.{\r}
+Dialogue: 0,0:11:43.00,0:11:45.83,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}当然算 骗子，骗子，不吃会死{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Does so count. -Cheater,cheater,compulsive eater.{\r}
+Dialogue: 0,0:11:47.67,0:11:49.03,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我的天啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,my God!{\r}
+Dialogue: 0,0:11:50.67,0:11:54.40,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}很好，也许你还没长大 但我已经是大人了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's fine. Maybe you haven't grown up,but I have.{\r}
+Dialogue: 0,0:11:56.04,0:11:57.24,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}踢死你{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Dead leg!{\r}
+Dialogue: 0,0:11:58.54,0:12:01.95,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，很好… 你想靠作弊赢球，随便你{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,fine. You want to win by cheating,go ahead.{\r}
+Dialogue: 0,0:12:02.21,0:12:04.21,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比，得分照算，你赢了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The touchdown does count. You win.{\r}
+Dialogue: 0,0:12:07.62,0:12:11.68,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不想再跟你吵 我要你输得无话可说{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I won't do this again. I wanna beat you when you can't blame it...{\r}
+Dialogue: 0,0:12:11.92,0:12:15.52,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不能怪罪鼻梁断掉、铃声 或是你可能白血球过多{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...on the broken nose or the buzzer or the fact that you might have mono.{\r}
+Dialogue: 0,0:12:16.06,0:12:19.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛算平手，现在是中场休息{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's just call this tie score and it's halftime.{\r}
+Dialogue: 0,0:12:19.36,0:12:20.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}首先，我不跟作弊的人比赛{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}First,I don't play with cheaters.{\r}
+Dialogue: 0,0:12:21.03,0:12:24.06,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}第二，你知道 我以前有腺体肿大的毛病{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Second of all,you know I had swollen glands!{\r}
+Dialogue: 0,0:12:26.10,0:12:28.37,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你知道吗？我看你一定会参加{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know what? I think you'll play.{\r}
+Dialogue: 0,0:12:29.14,0:12:30.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}真的吗？为什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,really? Why's that?{\r}
+Dialogue: 0,0:12:31.04,0:12:32.81,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}因为赢的人可以拿到这个{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Because the winner gets this.{\r}
+Dialogue: 0,0:12:33.41,0:12:35.61,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}盖勒杯{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The Geller Cup!{\r}
+Dialogue: 0,0:12:38.08,0:12:42.08,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们大家也看见一个 钉在小木板上的娃娃吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Is everybody else seeing a troll doll nailed to a two-by-four?{\r}
+Dialogue: 0,0:12:42.89,0:12:44.45,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，很好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,good.{\r}
+Dialogue: 0,0:12:47.90,0:12:49.73,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你是从哪里弄来的？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Where the hell did you get that?{\r}
+Dialogue: 0,0:12:50.00,0:12:52.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你到医院去接鼻梁的时候…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}When you went to the hospital for your nose...{\r}
+Dialogue: 0,0:12:52.53,0:12:55.33,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我游到湖里找出来的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...I swam into the lake and fished it out.{\r}
+Dialogue: 0,0:12:55.54,0:12:56.50,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}奖杯是我的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That cup is mine!{\r}
+Dialogue: 0,0:12:56.74,0:12:59.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}才不是，你想要 就得凭本事来赢过去{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,it's not. You want it,you're gonna have to win it.{\r}
+Dialogue: 0,0:13:00.17,0:13:02.84,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那我们不吃晚饭了？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So are we not having dinner at all?{\r}
+Dialogue: 0,0:13:03.94,0:13:06.44,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}嘿，你能帮忙设置一下时间吗，玛嘉{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey, could you please set the timer, Margha?{\r}
+Dialogue: 0,0:13:06.65,0:13:08.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好的，比菲{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay, Beefy.{\r}
+Dialogue: 0,0:13:11.45,0:13:15.04,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}过来，该认真一点了，围过来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,let's go. It's time to get serious. Huddle up.{\r}
+Dialogue: 0,0:13:15.69,0:13:17.52,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}乔伊，认真比赛{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}IKeep your head in the game.{\r}
+Dialogue: 0,0:13:17.79,0:13:21.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这很难耶 他就在那个荷兰女孩旁边{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's hard,you know? His huddle's close to the Dutch girl.{\r}
+Dialogue: 0,0:13:22.66,0:13:26.06,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果我让钱德出局 你能够专心吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If I take Chandler out of the running,will you be able to focus?{\r}
+Dialogue: 0,0:13:26.30,0:13:29.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你有什么办法？ 你只要让他接到球就好了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-What are you gonna do? -Just make sure he catches the ball.{\r}
+Dialogue: 0,0:13:29.50,0:13:30.47,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}其他就交给我吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'll do the rest.{\r}
+Dialogue: 0,0:13:30.87,0:13:33.30,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来吧 懦夫  来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Come on,you wuss! -Okay,come on.{\r}
+Dialogue: 0,0:13:35.34,0:13:36.24,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看我的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I got it!{\r}
+Dialogue: 0,0:13:36.47,0:13:38.57,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}来，这里，来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on! This way! Come on!{\r}
+Dialogue: 0,0:13:39.04,0:13:39.87,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}小心{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Look out!{\r}
+Dialogue: 0,0:13:44.18,0:13:47.17,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}被女生阻截 这种画面不多见吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Tackled by a girl! Bet you don't see that every day.{\r}
+Dialogue: 0,0:13:49.49,0:13:50.89,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你这是干嘛？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What's with the tackling?{\r}
+Dialogue: 0,0:13:51.39,0:13:52.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}干嘛？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What?{\r}
+Dialogue: 0,0:13:52.92,0:13:54.75,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我碰他一下，他就倒下来了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I just touched him and he went over.{\r}
+Dialogue: 0,0:13:55.53,0:13:58.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，你想玩狠的 我们也可以很野蛮{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay. You wanna play rough? We can play rough.{\r}
+Dialogue: 0,0:13:59.66,0:14:02.10,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}准备开打{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's get ready to rumble!{\r}
+Dialogue: 0,0:14:41.97,0:14:44.13,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}加油 挡住她{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Go,go,go! -Get her! Get her!{\r}
+Dialogue: 0,0:14:48.15,0:14:49.87,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我爱这个比赛！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I love this game!{\r}
+Dialogue: 0,0:14:52.92,0:14:54.11,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你从哪里弄来的？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Where'd you get that?{\r}
+Dialogue: 0,0:14:54.95,0:14:56.75,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我跑得很远{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I went really long.{\r}
+Dialogue: 0,0:14:58.16,0:14:59.92,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}42比21{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Forty-two to 21.{\r}
+Dialogue: 0,0:15:00.16,0:15:02.65,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}罗斯跟火鸡一样死翘翘了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Like the turkey,Ross is done!{\r}
+Dialogue: 0,0:15:04.26,0:15:07.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你会赢并不奇怪，你先挑人 挑到的球员比较好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You got to pick first,so you got the better team.{\r}
+Dialogue: 0,0:15:07.63,0:15:10.60,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你真可悲，为什么 你不肯承认我们赢球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Pathetic! Why can't you just accept that we're winning...{\r}
+Dialogue: 0,0:15:10.83,0:15:12.13,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是因为我比你行？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... because I'm better than you?{\r}
+Dialogue: 0,0:15:12.84,0:15:16.17,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好啊，好一声叹息{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,what a great argument. Exhaling!{\r}
+Dialogue: 0,0:15:16.91,0:15:18.67,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我要让你心服口服{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,I'll prove it to you.{\r}
+Dialogue: 0,0:15:19.24,0:15:22.68,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我用乔伊跟你换瑞秋 还是照赢不误{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'll trade you Joey for Rachel and I'll still win the game.{\r}
+Dialogue: 0,0:15:22.85,0:15:26.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}哦，很好，这是我最后的自尊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh, that's great.There goes my last shred of self-esteem.{\r}
+Dialogue: 0,0:15:26.72,0:15:30.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？男生对女生？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What? The guys against the girls?{\r}
+Dialogue: 0,0:15:30.22,0:15:33.71,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这太荒谬了，因为我只要 三次触地得分，就追上你了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's ridiculous because I'm only down by three touchdowns.{\r}
+Dialogue: 0,0:15:33.96,0:15:35.62,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}那就得分给我看啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Then bring it on!{\r}
+Dialogue: 0,0:15:35.86,0:15:39.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}除非你怕会输给几个女生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Unless you're afraid you might lose to a bunch of girls.{\r}
+Dialogue: 0,0:15:41.36,0:15:44.76,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}很好，瑞秋，你跟莫妮卡 乔伊，你跟我一队{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Fine. Rachel,you're with Monica. Joey,you're with me.{\r}
+Dialogue: 0,0:15:45.03,0:15:46.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你竟然把我交换出去{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I can't believe you're trading me.{\r}
+Dialogue: 0,0:15:48.01,0:15:49.74,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你马上就要输了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You are going to lose.{\r}
+Dialogue: 0,0:15:49.94,0:15:54.11,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你马上就要输了，并且…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And you are going to lose.And....{\r}
+Dialogue: 0,0:15:54.32,0:15:56.25,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}帮帮我，我从没这么说过{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Help me out.l've never done this before.{\r}
+Dialogue: 0,0:15:56.45,0:15:58.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}很好，失败，失败{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}That's good. Lose.Lose!{\r}
+Dialogue: 0,0:16:00.29,0:16:03.46,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们也来尝尝看赢球的滋味{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's see what it's like to be on a winning team for a change.{\r}
+Dialogue: 0,0:16:03.70,0:16:05.36,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你会让我上场？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You're gonna let me play?{\r}
+Dialogue: 0,0:16:05.80,0:16:06.96,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好了，那么{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,then!{\r}
+Dialogue: 0,0:16:08.20,0:16:09.90,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛结束了？我们要去吃饭？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The game is over? We eat now?{\r}
+Dialogue: 0,0:16:10.14,0:16:12.00,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛还没结束 我们在交换球员{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The game's not over. We're switching teams.{\r}
+Dialogue: 0,0:16:12.20,0:16:16.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}钱德觉得我对他造成威胁 还是跟他同一队比较好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Chandler finds me so intimidating that it's better if we're on the same team.{\r}
+Dialogue: 0,0:16:17.08,0:16:18.70,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，我们来打球吧，快{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay,let's play. Let's go.{\r}
+Dialogue: 0,0:16:18.98,0:16:20.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hold on a second.{\r}
+Dialogue: 0,0:16:21.48,0:16:23.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}荷兰人是从哪里来的？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Where do Dutch people come from?{\r}
+Dialogue: 0,0:16:32.73,0:16:35.75,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这个嘛 宾夕法尼亚州的荷兰人来自宾夕法尼亚{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,the Pennsylvania Dutch come from Pennsylvania.{\r}
+Dialogue: 0,0:16:36.53,0:16:38.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}其他的荷兰人呢？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}And the other Dutch people?{\r}
+Dialogue: 0,0:16:38.83,0:16:41.43,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他们是荷兰附近来的吧？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}They come from somewhere near the Netherlands,right?{\r}
+Dialogue: 0,0:16:41.73,0:16:42.56,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}勇气可嘉{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Nice try.{\r}
+Dialogue: 0,0:16:43.74,0:16:45.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}梦幻岛（与荷兰谐音）是虚构出来的地方{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The Netherlands is this make-believe place...{\r}
+Dialogue: 0,0:16:46.21,0:16:48.04,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是彼得潘和小仙女的家（《小飞侠》）{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...where Peter Pan and Tinker Bell live.{\r}
+Dialogue: 0,0:16:50.34,0:16:51.67,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我的天{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,my.{\r}
+Dialogue: 0,0:16:52.54,0:16:55.88,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}别再讲“疯子的地理学”了 我们打球吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Enough "geography for the insane." Let's play ball.{\r}
+Dialogue: 0,0:16:56.31,0:16:58.47,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不跟这家伙一起打球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm not playing with this guy.{\r}
+Dialogue: 0,0:16:58.98,0:17:01.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我无所谓 我受够了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Fine with me. -I've had enough of this.{\r}
+Dialogue: 0,0:17:01.42,0:17:05.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}干脆直截了当一点 海蒂，你喜欢哪一个？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let's just cut to the chase. Heidi,which of my boys do you like?{\r}
+Dialogue: 0,0:17:06.32,0:17:07.31,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你这是干嘛？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What are you doing?{\r}
+Dialogue: 0,0:17:07.59,0:17:08.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你这是干嘛？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What are you doing?{\r}
+Dialogue: 0,0:17:10.69,0:17:12.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我喜欢哪一个？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Which do I like?{\r}
+Dialogue: 0,0:17:12.59,0:17:16.26,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对，你会挑哪一个约会 找乐子、带回你的“磨坊”？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah,for dating,general merriment,taking back to your windmill?{\r}
+Dialogue: 0,0:17:16.93,0:17:19.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果一定要现在选…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Well,if I had to choose right now...{\r}
+Dialogue: 0,0:17:19.67,0:17:22.43,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我也觉得不可思议…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...which,by the way,I find really weird...{\r}
+Dialogue: 0,0:17:23.81,0:17:25.86,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不过我会说是钱德{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}... I would have to say Chandler.{\r}
+Dialogue: 0,0:17:28.44,0:17:31.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等等，她显然没听懂你的问题{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wait a minute. She didn't understand the question.{\r}
+Dialogue: 0,0:17:32.05,0:17:35.21,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你可以请虎克船长（《小飞侠》） 解释给她听啊{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Why don't you have Captain Hook explain it to her?{\r}
+Dialogue: 0,0:17:36.62,0:17:38.52,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对不起，这是我的真心话{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm sorry. That is my truth.{\r}
+Dialogue: 0,0:17:38.79,0:17:42.31,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}听到没有？这是她的真心话 说什么“我把她让给你”！{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You hear that? That is her truth,Mr. "I'll Let You Have Her"!{\r}
+Dialogue: 0,0:17:42.56,0:17:45.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我赢了，你输了 我是决策者{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I win! You suck! I rule all!{\r}
+Dialogue: 0,0:17:45.49,0:17:47.55,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}给我来个迷你波浪舞{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Mini-wave in celebration of me!{\r}
+Dialogue: 0,0:17:51.97,0:17:57.03,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我现在考虑要把我的答案 改成“谁都不选”{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I am now thinking I would like to change my answer to "no one."{\r}
+Dialogue: 0,0:17:57.57,0:17:58.66,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}什么？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}What?{\r}
+Dialogue: 0,0:17:59.57,0:18:01.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我现在觉得你既肤浅…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I now find you shallow...{\r}
+Dialogue: 0,0:18:02.24,0:18:03.80,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}又呆瓜{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...and a dork.{\r}
+Dialogue: 0,0:18:04.58,0:18:05.64,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}再见{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Bye-bye.{\r}
+Dialogue: 0,0:18:07.32,0:18:08.15,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}干得好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Nice going.{\r}
+Dialogue: 0,0:18:08.48,0:18:10.92,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你可以好几个月保存你做爱的精力了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You just saved yourself a couple months of sex.{\r}
+Dialogue: 0,0:18:11.82,0:18:14.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这无所谓，因为她选的是我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It doesn't matter,because she picked me.{\r}
+Dialogue: 0,0:18:14.42,0:18:16.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}从现在起，我会跟女人约会{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}From now on,I get the dates...{\r}
+Dialogue: 0,0:18:16.49,0:18:20.22,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}而你周末的晚上只能 在家里看“简单烹饪”节目{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...and you stay home on Saturday nights watching Ready,Set,Cook!{\r}
+Dialogue: 0,0:18:20.76,0:18:23.53,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}把这些话留着告诉心理医生 比赛快结束了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Save the breakthroughs for therapy. The clock is ticking.{\r}
+Dialogue: 0,0:18:23.77,0:18:26.50,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们时间不多 目前还落后给女生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We have no time and we are losing to girls.{\r}
+Dialogue: 0,0:18:26.70,0:18:28.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们不会输给女生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We're not gonna lose to girls.{\r}
+Dialogue: 0,0:18:28.50,0:18:29.87,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}现在比数是42比21{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's 42-21!{\r}
+Dialogue: 0,0:18:30.11,0:18:33.23,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}该死 我刚才就是领先这么多分{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This sucks! I was just up by that much!{\r}
+Dialogue: 0,0:18:35.31,0:18:36.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}看，让我们这样想{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Look, let me put it this way.{\r}
+Dialogue: 0,0:18:36.98,0:18:39.34,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果我们输了，她们会让我们记一辈子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}lf we lose, they will never let us forget it.{\r}
+Dialogue: 0,0:18:39.55,0:18:43.45,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}更糟的是，她们会让跟你们约会的女人记一辈子{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay, and worse than that, they'll never let the women you date forget it.{\r}
+Dialogue: 0,0:18:43.65,0:18:47.11,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们还要不要玩球？ 快点，你们这些娘娘腔{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Are we playing football or what? Come on,you hairy-backed Marys!{\r}
+Dialogue: 0,0:18:48.99,0:18:52.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们必须要赢 我们要替全世界的女人而战{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We have to do this. We're playing for women everywhere.{\r}
+Dialogue: 0,0:18:52.26,0:18:54.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}想想过去的每个烂约会{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Think about every lousy date you ever had.{\r}
+Dialogue: 0,0:18:55.13,0:18:57.86,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}每个在亲热的时候 一只眼睛还在电视上的男人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Every guy who kept one eye on the TV while you were making out.{\r}
+Dialogue: 0,0:18:58.13,0:19:01.33,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}老天，你跟装假眼的 男人约会过？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,my God. You dated someone with a glass eye too?{\r}
+Dialogue: 0,0:19:03.01,0:19:07.14,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拜托你们，好吗？ 为了全体妇女，我们宰了他们{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,okay? This is for all womankind. Let's kill them!{\r}
+Dialogue: 0,0:19:07.34,0:19:08.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对，宰了他们{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah! IKill them!{\r}
+Dialogue: 0,0:19:10.28,0:19:12.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好啊，我也想宰了他们{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,I want to kill them too.{\r}
+Dialogue: 0,0:19:12.82,0:19:14.18,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}可是他们是男生{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}But they're boys.{\r}
+Dialogue: 0,0:19:14.62,0:19:17.81,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们怎么打败三个男生？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know,how are we gonna beat three boys?{\r}
+Dialogue: 0,0:19:47.05,0:19:50.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}只剩下一分半钟 我们还落后两分{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}A minute and a half left and we're down by two points.{\r}
+Dialogue: 0,0:19:50.55,0:19:51.82,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}还落后两分，姐妹们{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Two points,ladies.{\r}
+Dialogue: 0,0:19:57.26,0:19:59.49,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比，你再用后转身进攻法{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Phoebe,you do a buttonhook again.{\r}
+Dialogue: 0,0:19:59.73,0:20:01.06,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}瑞秋，你跑远一点{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Rachel,you go long.{\r}
+Dialogue: 0,0:20:01.33,0:20:04.99,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不要再叫我跑远一点了 让我做点事，他们从不防守我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}No,don't make me go long. Use me. They never cover me.{\r}
+Dialogue: 0,0:20:05.23,0:20:06.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}亲爱的，这是有原因的{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Honey,there's a reason.{\r}
+Dialogue: 0,0:20:08.27,0:20:10.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我不是跛脚，好吗？ 我可以发挥作用{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I'm not lame,okay? I can do something.{\r}
+Dialogue: 0,0:20:11.21,0:20:13.68,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你让我传球嘛 这也是我的比赛{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Would you let me throw? This is my game too.{\r}
+Dialogue: 0,0:20:13.91,0:20:15.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}让她传球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let her throw the ball.{\r}
+Dialogue: 0,0:20:15.75,0:20:19.37,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}迅速到他们后面，我传球给你 你传球到前场给菲比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Sweep behind,I'll pitch it. You throw it downfield to Phoebe.{\r}
+Dialogue: 0,0:20:19.62,0:20:20.60,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}谢谢{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thank you.{\r}
+Dialogue: 0,0:20:20.85,0:20:21.78,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛开始 比赛开始{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Break! -Break!{\r}
+Dialogue: 0,0:20:22.22,0:20:24.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，来吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,here we go.{\r}
+Dialogue: 0,0:20:24.25,0:20:26.52,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}31、71，挡下开球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thirty-two,71,hike!{\r}
+Dialogue: 0,0:20:26.79,0:20:29.35,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}一个密西西比、两个密西西比、三个密西西比{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}One Mississippi,two Mississippi,three Mississippi!{\r}
+Dialogue: 0,0:20:34.60,0:20:36.12,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}加油…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Go,go,go!{\r}
+Dialogue: 0,0:20:36.90,0:20:38.30,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}接球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Catch it!{\r}
+Dialogue: 0,0:20:40.57,0:20:43.56,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}对不起，你还好吧？ 不，我不好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-I'm so sorry. Are you okay? -No,I'm not okay!{\r}
+Dialogue: 0,0:20:44.91,0:20:47.38,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他们冲着我来 我不知道该怎么办{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}They were coming at me and I didn't know what to do.{\r}
+Dialogue: 0,0:20:47.61,0:20:49.58,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比赛还剩下30秒钟{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Thirty seconds left on the timer.{\r}
+Dialogue: 0,0:20:50.51,0:20:53.67,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们是失败者{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You are the loser!{\r}
+Dialogue: 0,0:20:55.02,0:20:58.01,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们就可以 把那个呆瓜侏儒带回家了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So we get to take that stupid troll thing home.{\r}
+Dialogue: 0,0:20:58.26,0:21:01.19,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}快过来，我们没时间了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on! Hurry! We're running out of time.{\r}
+Dialogue: 0,0:21:01.39,0:21:02.92,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}临场会议{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Huddle up!{\r}
+Dialogue: 0,0:21:05.43,0:21:07.40,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这是最后一次临场会议了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This is our last huddle!{\r}
+Dialogue: 0,0:21:08.30,0:21:11.20,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好，菲比，摆脱防守，瑞秋{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}All right,Phoebe,get open. Rachel...{\r}
+Dialogue: 0,0:21:11.44,0:21:12.27,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}跑远一点{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...go long.{\r}
+Dialogue: 0,0:21:12.54,0:21:13.87,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay.{\r}
+Dialogue: 0,0:21:14.11,0:21:15.13,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}结束{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Break!{\r}
+Dialogue: 0,0:22:03.59,0:22:05.85,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我成功了，触地得分，成功了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I did it! Touchdown! We did it!{\r}
+Dialogue: 0,0:22:09.43,0:22:13.76,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}你们知道吗？很奇怪 结束区是在那个柱子那里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}You know? Funny thing,actually. The end zone starts at that pole.{\r}
+Dialogue: 0,0:22:14.00,0:22:15.97,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}所以你还差了五尺，所以…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}So you're five feet short. So...{\r}
+Dialogue: 0,0:22:17.03,0:22:18.09,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们赢了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...we win!{\r}
+Dialogue: 0,0:22:20.14,0:22:21.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}太好了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes,yes,yes!{\r}
+Dialogue: 0,0:22:21.81,0:22:23.83,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}等等，请你们解释一下{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Wait,explain something,though.{\r}
+Dialogue: 0,0:22:24.11,0:22:28.31,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}如果没有人抱住瑞秋 那比赛就还没结束吧？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}If nobody tagged Rachel,then isn't the play still going?{\r}
+Dialogue: 0,0:22:33.62,0:22:36.02,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}让开… 想都别想，放手{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Let me in,let me in! -No way! Let go!{\r}
+Dialogue: 0,0:22:36.29,0:22:38.88,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}放手？我是个小女人{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Let go?! I'm a tiny little woman!{\r}
+Dialogue: 0,0:22:40.09,0:22:41.88,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}拜托，今天是感恩节{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Come on,it's Thanksgiving!{\r}
+Dialogue: 0,0:22:42.12,0:22:44.42,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}输赢并不重要{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}It's not important who wins or loses.{\r}
+Dialogue: 0,0:22:44.66,0:22:47.72,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}重要的是荷兰女孩选了我{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}The important thing is the Dutch girl picked me!{\r}
+Dialogue: 0,0:22:49.56,0:22:53.93,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是我，不是你，荷兰爱钱德 谢谢，阿姆斯特丹，晚安{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Me,not you! Holland loves Chandler! Thank you,Amsterdam! Good night!{\r}
+Dialogue: 0,0:22:59.64,0:23:01.63,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们应该多抽空玩足球{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We should play football more often.{\r}
+Dialogue: 0,0:23:01.90,0:23:04.40,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}也许我们可以参加哪个联盟{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Maybe there's a league we could join.{\r}
+Dialogue: 0,0:23:04.64,0:23:07.61,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不是有个 “国家足球联盟”吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Isn't there a "national football league"?{\r}
+Dialogue: 0,0:23:08.41,0:23:11.28,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}没错，星期天 和星期一晚上比赛{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yes,there is. They play on Sundays and Monday nights.{\r}
+Dialogue: 0,0:23:11.51,0:23:14.01,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}太可惜了 我星期一晚上要上班{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Oh,shoot! I work Monday nights.{\r}
+Dialogue: 0,0:23:16.82,0:23:20.62,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这菜真好吃 要给他们带一些过去吗？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}This stuffing is amazing. Do you think we should bring them some?{\r}
+Dialogue: 0,0:23:20.86,0:23:22.85,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}他们饿了自然会进来{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}When they're hungry,they'll come in.{\r}
+Dialogue: 0,0:23:23.09,0:23:25.96,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}放手 不，你放手{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Let go! -No,you let go!{\r}
+Dialogue: 0,0:23:27.96,0:23:30.87,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}为什么每次都只剩 我们两个人抱着球不放？{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}How come it's always us left holding the ball?{\r}
+Dialogue: 0,0:23:31.17,0:23:35.00,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}不知道，我想是因为 其他人不太在乎吧{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}I don't know. I guess the other people just don't care enough.{\r}
+Dialogue: 0,0:23:40.68,0:23:43.54,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}开始下雪了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Hey,it's starting to snow.{\r}
+Dialogue: 0,0:23:47.85,0:23:50.98,*Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}把球给我，放手 放手，快放手{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Give it to me! Let go! -Let it go! Come on,let go!{\r}
+Dialogue: 0,0:23:55.90,0:23:59.09,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}今晚我的脚趾头一度没有感觉了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}There was a time tonight that l started losing the feeling in my toes.{\r}
+Dialogue: 0,0:23:59.30,0:24:01.20,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-我知道 -那时我才发现…{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-l know.-That's when l realized...{\r}
+Dialogue: 0,0:24:01.40,0:24:04.53,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}在比赛时还有比打你更重要的事{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}...there's more important things than beating you at football.{\r}
+Dialogue: 0,0:24:04.74,0:24:06.50,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}比如脚{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Things like feet.{\r}
+Dialogue: 0,0:24:06.71,0:24:10.30,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}是的，我知道，这事让我们遭受太多痛苦了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Yeah, l know. This thing has caused us too much pain and suffering.{\r}
+Dialogue: 0,0:24:10.51,0:24:12.07,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-是的 -到时间了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Yeah.-lt's time.{\r}
+Dialogue: 0,0:24:12.28,0:24:13.94,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}我们就当平局好了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}We'll just call it a tie.{\r}
+Dialogue: 0,0:24:14.15,0:24:16.34,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-是平局 -好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-lt's a tie.-All right.{\r}
+Dialogue: 0,0:24:16.55,0:24:17.52,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}这里{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Here.{\r}
+Dialogue: 0,0:24:18.89,0:24:20.18,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}好{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Okay.{\r}
+Dialogue: 0,0:24:24.52,0:24:27.32,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-晚安 -晚安{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Good night.-Good night.{\r}
+Dialogue: 0,0:24:29.73,0:24:30.92,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}菲比，你拿到了吗{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Pheebs, did you get it?{\r}
+Dialogue: 0,0:24:31.13,0:24:33.33,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-是的 -太棒了{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Yeah, l got it.-Oh, great.{\r}
+Dialogue: 0,0:24:33.53,0:24:38.20,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}带它上来，我房间里有胜利者的香槟{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}Bring it up. There's champagne in my apartment for the winners.{\r}
+Dialogue: 0,0:24:38.41,0:24:45.81,Default,,0000,0000,0000,,{\fn幼圆\fs16\bord1\3c&HFF8000&}-罗斯，你在下面干什么？-没什么{\r}\N{\fnTahoma\fs14\bord1\1c&H00FFFF&}-Ross! What are you doing down here?-Nothing.{\r}
